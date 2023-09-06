@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include "tm4c123gh6pm.h"
-/*
+
 int i,j;
 void delay()
 {
@@ -11,7 +11,7 @@ void delay()
         for(j=0;j<100;j++);
     }
 }
-*/
+
 int main(void)
 {
         //Deciding to Toggle on port PB0
@@ -23,8 +23,8 @@ int main(void)
         while(1)
         {
             GPIO_PORTB_DATA_R = 0x00;
-            //delay();
+            delay();
             GPIO_PORTB_DATA_R = 0x01;
-            //delay();
+            delay();
         }
 }
