@@ -37,7 +37,7 @@ int main(void)
             input = GPIO_PORTF_DATA_R & 0x01;
             if(input==0x00 && input_prev==0x01)
             {
-                delay(5);//to account for debouncing
+                delay(5);//to account for debouncing at falling edge
                 if((GPIO_PORTF_DATA_R & 0x01)==0x00)
                 {
                 count++;
@@ -61,6 +61,11 @@ int main(void)
 
                 }
                 }
+            }
+            if(input==0x01 && input_prev==0x00)
+            {
+                delay(5);//to account for debouncing at rising edge
+
             }
             input_prev=input;
             /*
