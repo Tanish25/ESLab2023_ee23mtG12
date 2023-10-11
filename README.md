@@ -4,6 +4,7 @@
 * Tirumala Reddy B N [ee23mt022@iitdh.ac.in]
 * Group: 12 <br>
 * Tanish Repository link: <https://github.com/Tanish25/ESLab2023_ee23mtG12.git>
+* Evaluator : abhijit86k
 
 ### Lab-1:
 Toggling a pin and checking expected and actual frequency
