@@ -3,7 +3,7 @@
 * Tanish H Talapaneni [200020050@iitdh.ac.in] 
 * Tirumala Reddy B N [ee23mt022@iitdh.ac.in]
 * Group: 12 <br>
-* Tanish Repository link: <git@github.com:Tanish25ESLab2023_ee23mtG12.git>
+* Tanish Repository link: <https://github.com/Tanish25/ESLab2023_ee23mtG12.git>
 
 ### Lab-1:
 Toggling a pin and checking expected and actual frequency
