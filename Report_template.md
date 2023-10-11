@@ -28,6 +28,11 @@ Markdown allows you to embed an image file from your repo as a link, like this:
   alt="55percent_duty_cycle"><!--text if image isnt displayed-->
   <figcaption>55percent_duty_cycle</figcaption><!--image caption-->
 </figure>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Measurements and Results:
 
