@@ -108,7 +108,7 @@ We werent sure about when an error might come up with respect to transmission/re
   <img
   src="Rx_AA_pic.jpg"
   alt="AA Reception and transmit back with BLUE LED glowing">
-  <figcaption>AA Reception and transmit back with GREEN LED glowing</figcaption>
+  <figcaption>AA Reception and transmit back with BLUE LED glowing</figcaption>
 </figure>
 <br>
 <br>
