@@ -22,10 +22,12 @@ Self explanatory. The problem statements are not exhaustive. Are there corner ca
 
 Markdown allows you to embed an image file from your repo as a link, like this:
 
-![Duck](duck.png)
-
-![Philadelphia's Magic Gardens. This place was so cool!](images/philly-\magic-garden.png "Philadelphia's Magic Gardens")
-Alternatively, there are [many](https://asciiflow.com/#/) [tools](https://textik.com/#1c607fbeaad12321) [to create](https://metacpan.org/dist/App-Asciio/view/lib/App/Asciio.pm) ASCII Diagrams and more complicated [graphics with mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/).
+<figure>
+  <img
+  src="Duty_55.jpeg"
+  alt="55percent_duty_cycle"><!--text if image isnt displayed-->
+  <figcaption>55percent_duty_cycle</figcaption><!--image caption-->
+</figure>
 
 ### Measurements and Results:
 

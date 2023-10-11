@@ -34,9 +34,30 @@ For 50 percent duty cycle, compare value(PWM1_3_CMPA_R)= 160*0.5 = 80
 offset in compare value when there is 5 percent change in duty cycle= 160*0.05 = 8
 
 Scope waveforms: 
-![45percent_duty_cycle](Duty_45.jpeg "45percent_duty_cycle")
-![50percent_duty_cycle](Duty_50.jpeg "50percent_duty_cycle")
-![55percent_duty_cycle](Duty_55.jpeg "55percent_duty_cycle")
+<!--![45percent_duty_cycle](Duty_45.jpeg "45percent_duty_cycle")-->
+<!--![50percent_duty_cycle](Duty_50.jpeg "50percent_duty_cycle")-->
+<!--![55percent_duty_cycle](Duty_55.jpeg "55percent_duty_cycle")-->
+
+<figure>
+  <img
+  src="Duty_45.jpeg"
+  alt="45percent_duty_cycle">
+  <figcaption>45percent_duty_cycle</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="Duty_50.jpeg"
+  alt="50percent_duty_cycle">
+  <figcaption>50percent_duty_cycle</figcaption>
+</figure>
+
+<figure>
+  <img
+  src="Duty_55.jpeg"
+  alt="55percent_duty_cycle">
+  <figcaption>55percent_duty_cycle</figcaption>
+</figure>
 
 
 ### Discussion and Conclusions:
